@@ -1,5 +1,9 @@
 # Token Radar — pre-token protocols ranked by implied value
 
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/jhw1106/token-radar/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/jhw1106/token-radar/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
 A radar for protocols that record no token yet. It reads the sealed DefiLlama
 snapshot, ranks the pre-token protocols by an implied value, and gives every
 row a concrete farm plan: what to do, what it costs, and how long it takes.
